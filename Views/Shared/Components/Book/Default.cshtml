@@ -1,0 +1,108 @@
+﻿
+@model BookVMVC
+
+
+
+											
+
+<section id="popular-books" class="bookshelf py-5 my-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+
+                <div class="section-header align-center">
+                    <div class="title">
+                        <span>Some quality items</span>
+                    </div>
+                    <h2 class="section-title">Popular Books</h2>
+                </div>
+
+                <!-- Tabs -->
+                <ul class="tabs">
+                    <li data-tab-target="#all-genre" class="tab active">All Genre</li>
+
+                    
+                        @foreach (var category in Model.Categories)
+                        {
+                            <li data-tab-target="#@category.Name" class="tab">
+                                @category.Name
+                            </li>
+                        }
+                    
+                </ul>
+
+                <!-- Tab Content -->
+                <div class="tab-content">
+
+                    <div id="all-genre" data-tab-content class="active">
+                        <div class="row">
+                            @foreach (var book in Model.Books)
+                            {
+                                <div class="col-md-3">
+                                    <div class="product-item">
+                                        <figure class="product-style">
+                                            <img src="~/assets/images/@book.Image" alt="@book.BookName" class="product-item">
+                                            <button type="button" class="add-to-cart">Add to Cart</button>
+                                        </figure>
+                                        <figcaption>
+                                            <h3>@book.BookName</h3>
+                                            <span>@book.Author</span>
+                                            <div class="item-price">$ @book.Price</div>
+                                        </figcaption>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+
+                    
+                        @foreach (var category in Model.Categories)
+                        {
+                            <div id="@category.Name" data-tab-content>
+                                <div class="row">
+                                    @foreach (var book in Model.Books.Where(b => b.CategoryId == category.Id))
+                                    {
+                                        <div class="col-md-3">
+                                            <div class="product-item">
+                                                <figure class="product-style">
+                                                    <img src="~/assets/images/@book.Image" alt="@book.BookName" class="product-item">
+                                                    <button type="button" class="add-to-cart">Add to Cart</button>
+                                                </figure>
+                                                <figcaption>
+                                                    <h3>@book.BookName</h3>
+                                                    <span>@book.Author</span>
+                                                    <div class="item-price">$ @book.Price</div>
+                                                </figcaption>
+                                            </div>
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        }
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- JS: active class deyismesi -->
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const tabs = document.querySelectorAll(".tabs .tab");
+        const tabContents = document.querySelectorAll("[data-tab-content]");
+
+        tabs.forEach(tab => {
+            tab.addEventListener("click", () => {
+                tabs.forEach(t => t.classList.remove("active"));
+                tab.classList.add("active");
+
+                tabContents.forEach(content => content.classList.remove("active"));
+                const target = document.querySelector(tab.dataset.tabTarget);
+                target.classList.add("active");
+            });
+        });
+    });
+</script>

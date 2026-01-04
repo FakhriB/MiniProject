@@ -1,0 +1,49 @@
+﻿
+@model IEnumerable<BookVM>
+<div class="container" style="margin-top:20px;">
+    <div class="row">
+        <div class="col-12">
+
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="card-title mb-0">Categories</h5>
+                </div>
+
+                <div class="card-body">
+                    <table class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>BookName</th>
+                                <th>Author</th>
+                                <th>Price</th>
+                                <th>Image</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+									<td>@item.Id</td>
+                                    <td>@item.BookName</td>
+                                    <td>@item.Author</td>
+                                    <td>@item.Price</td>
+                                    <td>@item.Image</td>
+                                    <td>
+                                        <a class="btn btn-primary btn-sm">Edit</a>
+                                        <a class="btn btn-danger btn-sm">Delete</a>
+                                    </td>
+                                </tr>
+                            }
+
+
+
+                        </tbody>
+                    </table>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>

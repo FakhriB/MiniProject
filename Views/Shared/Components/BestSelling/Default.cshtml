@@ -1,0 +1,50 @@
+﻿
+@model IEnumerable<BestSellingUIVM>
+
+<section id="best-selling" class="leaf-pattern-overlay">
+	<div class="corner-pattern-overlay"></div>
+	<div class="container">
+		<div class="row justify-content-center">
+
+			@foreach(var item in Model)
+			{
+				<div class="col-md-8">
+
+					<div class="row">
+
+						<div class="col-md-6">
+							<figure class="products-thumb">
+								<img src="~/assets/images/@item.Image" alt="book" class="single-image">
+							</figure>
+						</div>
+
+						<div class="col-md-6">
+							<div class="product-entry">
+								<h2 class="section-title divider">Best Selling Book</h2>
+
+								<div class="products-content">
+									<div class="author-name">@item.Author</div>
+									<h3 class="item-title">@item.BookName</h3>
+									<p>
+										@item.Description
+									</p>
+									<div class="item-price">$ @item.Price</div>
+									<div class="btn-wrap">
+										<a href="~/assets/#" class="btn-accent-arrow">
+											shop it now <i class="icon icon-ns-arrow-right"></i>
+										</a>
+									</div>
+								</div>
+
+							</div>
+						</div>
+
+					</div>
+					<!-- / row -->
+
+				</div>
+			}
+
+		</div>
+	</div>
+</section>
