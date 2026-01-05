@@ -3,8 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:areas\\admin\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\viewmodels\\category\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:viewmodels\\category\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\viewmodels\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:viewmodels\\category\\categorycreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\viewmodels\\category\\categoryuivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:viewmodels\\category\\categoryuivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\viewmodels\\book\\bookuivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:viewmodels\\book\\bookuivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\viewmodels\\book\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:viewmodels\\book\\bookvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\models\\bookimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:models\\bookimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\viewmodels\\book\\bookcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:viewmodels\\book\\bookcreatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|c:\\users\\fakhrib\\desktop\\bookshopwithmvc\\bookshop\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6567329A-27A5-4E13-BBCE-82CF1F759331}|BookShop.csproj|solutionrelative:areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,6 +80,214 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T10:44:26.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T10:43:56.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:18:28.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T10:11:18.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:11:02.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Category\\CategoryCreateVM.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Category\\CategoryCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Category\\CategoryCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:23:54.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Category\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Category\\CategoryVM.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Category\\CategoryVM.cs",
+              "RelativeToolTip": "ViewModels\\Category\\CategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:20:02.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-05T09:40:58.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:17:19.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:08:21.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:57:11.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookUIVM.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Book\\BookUIVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Book\\BookUIVM.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Book\\BookUIVM.cs",
+              "RelativeToolTip": "ViewModels\\Book\\BookUIVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:59:33.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryUIVM.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Category\\CategoryUIVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Category\\CategoryUIVM.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Category\\CategoryUIVM.cs",
+              "RelativeToolTip": "ViewModels\\Category\\CategoryUIVM.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T10:05:29.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookVM.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Book\\BookVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Book\\BookVM.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Book\\BookVM.cs",
+              "RelativeToolTip": "ViewModels\\Book\\BookVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:59:36.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookCreateVM.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Book\\BookCreateVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Book\\BookCreateVM.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\ViewModels\\Book\\BookCreateVM.cs",
+              "RelativeToolTip": "ViewModels\\Book\\BookCreateVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:59:26.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookImage.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Models\\BookImage.cs",
+              "RelativeDocumentMoniker": "Models\\BookImage.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Models\\BookImage.cs",
+              "RelativeToolTip": "Models\\BookImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T09:57:38.572Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -30,15 +302,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAArAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FakhriB\\Desktop\\BookShopwithMVC\\BookShop\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-04T19:34:57.424Z",
+              "WhenOpened": "2026-01-05T09:45:08.357Z",
               "EditorCaption": ""
             }
           ]

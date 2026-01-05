@@ -1,4 +1,5 @@
 ﻿using BookShop.Data;
+using BookShop.Models;
 using BookShop.Services.Interfaces;
 using BookShop.ViewModels.Book;
 using Microsoft.EntityFrameworkCore;
@@ -11,6 +12,17 @@ namespace BookShop.Services
         public BookService(AppDbContext context)
         {
             _context = context;
+        }
+
+        public async Task CreateAsync(BookCreateVM model)
+        {
+            await _context.Books.AddAsync(new Book 
+            { BookName = model.Name,
+                Author = model.Author,
+                Price = model.Price,
+                Image = model.Image
+            });
+            await _context.SaveChangesAsync();
         }
 
         public async Task<IEnumerable<BookVM>> GetAllAdminAsync()

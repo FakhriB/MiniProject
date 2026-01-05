@@ -6,5 +6,6 @@ namespace BookShop.Services.Interfaces
     {
         Task<IEnumerable<BookUIVM>> GetAllAsync();  
         Task<IEnumerable<BookVM>> GetAllAdminAsync();
+        Task CreateAsync(BookCreateVM model);
     }
 }
